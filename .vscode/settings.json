@@ -1,0 +1,15 @@
+{
+    "[m68k]": {
+        "editor.rulers": []
+    },
+    "m68k.includePaths": [
+        "c:\\Users\\jimak\\.vscode\\extensions\\bartmanabyss.amiga-debug-1.7.9\\bin\\win32\\opt\\m68k-amiga-elf\\sys-include"
+    ],
+    "m68k.vasm.provideDiagnostics": false,
+    "files.associations": {
+        "custom.h": "c",
+        "gcc8_c_support.h": "c",
+        "exec.h": "c"
+    },
+    "makefile.configureOnOpen": false
+}
